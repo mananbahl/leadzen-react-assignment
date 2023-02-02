@@ -1,0 +1,35 @@
+button.prev {
+  margin-left: 46%;
+  margin-right: 5px;
+  background-color: #fb3e3e;
+  height: 40px;
+  width: 40px;
+  border-radius: 20px;
+  color: white;
+  cursor: pointer;
+}
+button.next {
+  background-color: #fb3e3e;
+  margin-left: 5px;
+  height: 40px;
+  width: 40px;
+  border-radius: 20px;
+  color: white;
+  cursor: pointer;
+}
+button.prev:hover {
+  background-color: #b43030;
+}
+button.next:hover {
+  background-color: #b43030;
+}
+button.numbering-button {
+  color: #fb3e3e;
+  border: none;
+  background: none;
+  font-size: larger;
+  cursor: pointer;
+}
+button.numbering-button:hover {
+  color: #b43030;
+}
