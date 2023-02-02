@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-import Carousel from "./Carousel";
+import Carousel from "./Components/Carousel";
 import "./App.css";
 function App() {
   const [posts, setPosts] = useState([]);
